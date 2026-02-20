@@ -1,0 +1,9 @@
+{
+  "name": "CORE - CRM Engine",
+  "description": "Enterprise Desktop CRM with AI insights and employee field tracking.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera",
+    "microphone"
+  ]
+}
